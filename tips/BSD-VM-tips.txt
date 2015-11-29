@@ -1,0 +1,4 @@
+
+* align BSD time from host:
+
+rtc.diffFromUTC=0
