@@ -1,0 +1,2 @@
+
+scsi0:0.mode = "independent-nonpersistent"
